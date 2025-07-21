@@ -1,6 +1,5 @@
 # desafio 1 - Cálculo de KPI do bônus: 1000 + salário * bônus
 
-
 #solicitando o nome do usuário
 nome_usuario = input("Digite o seu nome: ")
 
@@ -17,6 +16,4 @@ valor_do_bonus = CONST_BONUS + sal_usuario*bonus_usuario
 #Imprimindo os valores
 
 print(f"O usuário {nome_usuario} possui o bônus de {valor_do_bonus}.")
-
-
 
